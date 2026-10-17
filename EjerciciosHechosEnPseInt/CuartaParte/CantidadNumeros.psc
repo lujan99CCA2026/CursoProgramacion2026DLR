@@ -1,5 +1,5 @@
 Algoritmo CantidadNumeros
-	// 3 Leer números hasta que escriban 0 y mostrar cuántos se ingresaron.
+	// 3 Leer nï¿½meros hasta que escriban 0 y mostrar cuï¿½ntos se ingresaron.
 	Definir num, contador  Como Entero
 	contador <- 1 
 	num <- 12
@@ -9,3 +9,4 @@ Algoritmo CantidadNumeros
 		contador <- contador + 1
 	FinMientras
 FinAlgoritmo
+//Hola como estan 
