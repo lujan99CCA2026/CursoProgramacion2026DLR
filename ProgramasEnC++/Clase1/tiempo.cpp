@@ -17,8 +17,8 @@ int main(){
     int segundos = residuo % 60;
 
     cout <<"Tienes horas:"<< horas<< endl;
-    cout << "Tienens minutos"<< minutos << endl ;
-    cout << "Tienens segundos"<< segundos << endl;
+    cout << "Tienens minutos:"<< minutos << endl ;
+    cout << "Tienens segundos:"<< segundos << endl;
 
     
     return 0;
