@@ -44,7 +44,7 @@ def buscar(lista, nombre):
 # Declaramos el diccionario para poder guardar s nuestros con sus notas
 # estudiantes = []
 estudiantes = [
-    {"nombre": "Ana", "nota": 85.0},
+    {"nombre": "Ana", "nota": 85.0, "Apellido Paterno": "Condori"},
     {"nombre": "Luis", "nota": 58.0},
     {"nombre": "Eva", "nota": 90.0}
 ] 
@@ -84,6 +84,4 @@ while opcion != "0":
     else:
         print("Opcion no valida")
         
-
-
 print("Fin")  
