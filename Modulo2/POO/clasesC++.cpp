@@ -22,6 +22,8 @@ public:
 };
 
 class Producto{
+
+    
 public:
     string nombre;
     double precio;
