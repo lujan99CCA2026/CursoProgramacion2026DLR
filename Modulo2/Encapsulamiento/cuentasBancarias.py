@@ -3,6 +3,7 @@ class CuentaBancaria:
         self.__titular = titular
         # __atributo lo convierte en un atributo privado
         self.__saldo = saldo
+        
     def retirar(self, monto):
         if monto <= self.saldo:
             self.__saldo -= monto
