@@ -46,6 +46,7 @@ int main(){
 
     Estudiante e("Ana", 22,"Sistemas");
     e.presentarse();
+
     
 
     Docente d("raul", 55, "programacion");
